@@ -1,0 +1,5 @@
+Create two input files for the project
+
+Eg. --> Cities.txt should be in format - "CITY_NAME" single word one per line
+	and Routes.txt should be in format - "SOURCE   DESTINATION   DISTANCE" three 
+	words per line each word separated by 3 space distance. 

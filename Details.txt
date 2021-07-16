@@ -1,0 +1,18 @@
+The Project consist of two things mainly i.e the src folder which consist of all the
+source files and the Sample Inputs folder which consist the input as list that are fed
+to the Program to compute the shortest path
+
+Content Description:
+	1. src 
+		I. path_Finder
+			a. BFS.java --> implements the Breadth First Search
+			b. Djikstra.java --> implements the Djikstra's Algorithm
+
+		II. structute : has the components required for the purpose
+			a. Edge.java --> Structure for an edge of the graph
+			b. Vertex.java --> Structure for a vertex of the graph
+			c. Graph.java --> Uses the Vertex.java and Edge.java
+					  to create a graph and implement several 
+					  functions required for our purpose.
+			d. LinkedList.java --> Contains the structure that helps us
+						to connect the vertices using edges.

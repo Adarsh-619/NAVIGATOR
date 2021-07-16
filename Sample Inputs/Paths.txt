@@ -1,0 +1,10 @@
+How to input path in console?
+
+Copy the the location where you have store the files and use "\\" instead of "\" 
+Following are the two examples of the path one for Cities and one for Routes.
+NOTE: My path may not be same as yours make sure to change them before entering
+
+
+C:\\Users\\Adarsh\\My_Workspace\\NAVIGATOR\\Sample Inputs\\Cities.txt
+
+C:\\Users\\Adarsh\\My_Workspace\\NAVIGATOR\\Sample Inputs\\Routes.txt
